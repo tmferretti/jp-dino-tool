@@ -1,4 +1,4 @@
-,Name,Type,Base Rating,Base Price,Cost/Rating @ 50,100% Rating,Cost/Rating @ 100,Comfort %,Social Min,Social Max,Pop Min,Pop Max,Grass Area,Forest Area,Total Area,Challenge Unlock
+,name,type,base_rating,base_price,cost_at_50,max_rating,cost_at_100,comfort_percentage,social_min,social_max,pop_min,pop_max,grass_area,forest_area,total_area,challenge_unlock
 ,Allosaurus,Large Carnivore,152,1873000,"$12,322",228,"$8,215",80,0,1,0,16,10206,1282,11488,4
 ,Ankylodocus,Giant Herbivore,168,980000,"$5,833",168,"$5,833",60,1,2,0,14,4536,1650,6186,2
 ,Ankylosaurus,Armored Herbivore,40,315000,"$7,875",60,"$5,250",60,0,4,0,8,686,686,1372,1
